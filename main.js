@@ -1,4 +1,5 @@
-import { szamjegyekOsszege } from "./fuggvenyem.js";
-import { tesztSzamjegyekOsszege } from "./tesztFuggvenyem.js";
+import { tesztesetekPrimek } from "./tesztPrimSzam.js";
+import { tesztSzamjegyekOsszege } from "./tesztSzamJegyekOsszege.js";
 
 tesztSzamjegyekOsszege();
+tesztesetekPrimek();

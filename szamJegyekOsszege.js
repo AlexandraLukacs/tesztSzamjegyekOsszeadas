@@ -7,3 +7,4 @@ export function szamjegyekOsszege(szam){
     }
     return osszeg;
 }
+

@@ -1,4 +1,4 @@
-import { szamjegyekOsszege } from "./fuggvenyem.js";
+import { szamjegyekOsszege } from "./szamJegyekOsszege.js";
 
 export function tesztSzamjegyekOsszege(){
     const tesztESETEK = [
